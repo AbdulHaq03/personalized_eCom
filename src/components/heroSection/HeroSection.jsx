@@ -45,25 +45,10 @@ const HeroSection = () => {
         <div className="overflow-hidden">
             <Slider {...settings} style={{ height: sliderHeight }}>
                 <div>
-                    <img src="https://uhdwallpapers.org/uploads/cache/3463815331/macbook-pro-by-apple_600x338-mm-90.jpg" alt="Hero 1" style={imageStyle} />
+                    <img src="https://www.hdwallpapers.in/download/apple_laptop_on_table_4k_hd_macbook-3840x2160.jpg" alt="Hero 1" style={imageStyle} />
                 </div>
                 <div>
-                    <img src="src/img/hero_2.jpg" alt="Hero 2" style={imageStyle} />
-                </div>
-                <div>
-                    <img src="src/img/hero_3.jpg" alt="Hero 3" style={imageStyle} />
-                </div>
-                <div>
-                    <img src="src/img/hero_4.jpg" alt="Hero 4" style={imageStyle} />
-                </div>
-                <div>
-                    <img src="src/img/hero_5.jpg" alt="Hero 5" style={imageStyle} />
-                </div>
-                <div>
-                    <img src="src/img/hero_6.jpg" alt="Hero 6" style={imageStyle} />
-                </div>
-                <div>
-                    <img src="src/img/hero_7.jpg" alt="Hero 7" style={imageStyle} />
+                    <img src="https://wallpapercave.com/wp/wp8030597.jpg" alt="Hero 2" style={imageStyle} />
                 </div>
             </Slider>
         </div>
