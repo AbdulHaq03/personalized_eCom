@@ -131,7 +131,7 @@ const CartPage = () => {
                                                         </div>
                                                         <div className="mt-1 flex items-end">
                                                             <p className="text-sm font-medium text-black">
-                                                                ₹{item.price}
+                                                                Rs. {item.price}
                                                             </p>
                                                         </div>
                                                     </div>
