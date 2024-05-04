@@ -60,7 +60,7 @@ const OrderDetail = () => {
                                                         {category}
                                                     </td>
                                                     <td className="h-12 px-6 text-md transition duration-300 border-t border-l first:border-l-0 border-black stroke-slate-500 text-slate-500 first-letter:uppercase ">
-                                                        ₹{price}
+                                                        Rs. {price}
                                                     </td>
                                                     <td className="h-12 px-6 text-md transition duration-300 border-t border-l first:border-l-0 border-black stroke-slate-500 text-slate-500 first-letter:uppercase ">
                                                         {quantity}
