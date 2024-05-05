@@ -16,7 +16,7 @@ const searchData = [
         image: 'https://leatheriza.com/wp-content/uploads/2023/10/bc2bad088c7bc9eac8607526f14ac098.jpg'
     },
     {
-        name: 'Mobiles',
+        name: 'Mobile',
         image: 'https://fdn2.gsmarena.com/vv/pics/apple/apple-iphone-15-pro-max-3.jpg'
     },
     {
